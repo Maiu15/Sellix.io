@@ -19,3 +19,13 @@ echo $sellix->getProducts();
 # Available functions
 
 ### getOrders()
+Get all orders
+
+### getOrder(id)
+Get a specific order
+
+### getProducts()
+Get all products
+
+### getProduct(id)
+Get a specific product
