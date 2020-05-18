@@ -1,0 +1,15 @@
+{
+    "name": "maiu/sellix",
+    "description": "A Sellix.io wrapper in PHP",
+    "type": "library",
+    "authors": [{
+        "name": "Maiu",
+        "email": "asdmaiu@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Sellix\\": "src/"
+        }
+    },
+    "require": {}
+}
