@@ -29,3 +29,33 @@ Get all products
 
 ### getProduct(id)
 Get a specific product
+
+### getFeedbacks()
+Get all feedbacks
+
+### getFeedback(id)
+Get a specific feedback
+
+### getCoupons()
+Get all coupons
+
+### getCoupon(id)
+Get a specific coupon
+
+### getCategories()
+Get all categories
+
+### getCategory(id)
+Get a specific category
+
+### getQueries()
+Get all queries
+
+### getQuery(id)
+Get a specific query
+
+### getBlacklist()
+Get blacklist
+
+### getBlacklistId(id)
+Get blacklist by id
