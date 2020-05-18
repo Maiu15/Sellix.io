@@ -15,3 +15,7 @@ $sellix = new \Sellix\Sellix('api_key_here');
 
 echo $sellix->getProducts();
 ```
+
+# Available functions
+
+## getOrders()
