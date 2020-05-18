@@ -18,4 +18,4 @@ echo $sellix->getProducts();
 
 # Available functions
 
-## getOrders()
+### getOrders()
