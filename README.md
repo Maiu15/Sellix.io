@@ -1,5 +1,5 @@
 # Sellix.io
-A Sellix.io wrapper in PHP
+A Sellix.io wrapper in PHP (Outdated)
 
 # Installation
 Install using composer
